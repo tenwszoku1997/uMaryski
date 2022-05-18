@@ -1,1 +1,1 @@
-uMaryski
+# ubuntu-template
